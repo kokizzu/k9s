@@ -14,7 +14,6 @@ require (
 	github.com/derailed/popeye v0.9.0
 	github.com/derailed/tview v0.5.3
 	github.com/drone/envsubst v1.0.2 // indirect
-	github.com/emicklei/go-restful v2.15.0+incompatible // indirect
 	github.com/fatih/color v1.10.0
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/fvbommel/sortorder v1.0.2
@@ -32,15 +31,15 @@ require (
 	github.com/sahilm/fuzzy v0.1.0
 	github.com/spf13/cobra v1.1.3
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/text v0.3.5
+	golang.org/x/text v0.3.6
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.5.3
-	k8s.io/api v0.20.5
-	k8s.io/apimachinery v0.20.5
-	k8s.io/cli-runtime v0.20.5
-	k8s.io/client-go v0.20.5
-	k8s.io/klog/v2 v2.8.0
-	k8s.io/kubectl v0.20.5
-	k8s.io/metrics v0.20.5
+	k8s.io/api v0.22.1
+	k8s.io/apimachinery v0.22.1
+	k8s.io/cli-runtime v0.22.1
+	k8s.io/client-go v0.22.1
+	k8s.io/klog/v2 v2.9.0
+	k8s.io/kubectl v0.22.1
+	k8s.io/metrics v0.22.1
 	sigs.k8s.io/yaml v1.2.0
 )
